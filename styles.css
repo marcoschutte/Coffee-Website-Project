@@ -16,3 +16,16 @@ a:link, a:visited {
 a:hover {
     color: black;
 }
+nav ul {
+    list-style-type: none;
+}
+nav li {
+    display: inline;
+}
+nav a:link, nav a:visited {
+    background-color: brown;
+    color: white;
+}
+nav a:hover {
+    background-color: black;
+}
