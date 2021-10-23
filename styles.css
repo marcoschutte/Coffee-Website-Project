@@ -108,3 +108,8 @@ table {
     border-spacing: 0;
     border-collapse: collapse;
 }
+
+video {
+    margin-bottom: 20px;
+    margin-left: 160px;
+}
