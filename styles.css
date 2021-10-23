@@ -8,3 +8,11 @@ h2, h2, h3{
 ul {
     list-style-image: url("images/tiny-coffee-cup.gif");
 }
+a:link, a:visited {
+    text-decoration: none;
+    color: brown;
+    font-weight: bold;
+}
+a:hover {
+    color: black;
+}
